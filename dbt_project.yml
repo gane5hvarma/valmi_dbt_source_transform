@@ -29,6 +29,7 @@ models:
 vars:
   source_table: "customer"
   init: "init"
+  query: "select * from eyjkxixmwdqvbeboj.customer where email LIKE '%gan%'"
   finalized_snapshot:  "finalized_snapshot"
   stg_snapshot: "stg_snapshot"
   ignored_snapshot: "ignored_snapshot"
