@@ -40,6 +40,6 @@ vars:
 
   destination_sync_mode: "update"
 
-  columns: ["id","email","first_name","updated_at"]<<<<<<< HEAD
+  columns: ["id","email","first_name","updated_at"]
   id_key: "id" 
 
