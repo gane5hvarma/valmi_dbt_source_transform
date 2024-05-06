@@ -40,5 +40,5 @@ vars:
 
   destination_sync_mode: "update"
 
-  columns: ["customer_id","email","first_name","activebool","last_update"]
-  id_key: "customer_id" 
+  columns: ["id","email","first_name","updated_at"]
+  id_key: "id" 
