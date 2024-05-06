@@ -3,7 +3,7 @@ version: 2
 sources:
   - name: aliased_source
     database: dvdrental
-    schema: public
+    schema: eyjkxixmwdqvbeboj
     tables:
       - name: customer 
   - name: scratch
